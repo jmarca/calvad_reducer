@@ -1,6 +1,6 @@
 {
   "name": "calvad_reducer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CalVAD utility to reduce multiple imputations, and help extract same from couchdb",
   "main": "lib/reducer.js",
   "directories": {
