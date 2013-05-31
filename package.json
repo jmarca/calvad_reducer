@@ -12,7 +12,7 @@
     "calvad_couch_cacher": "git://github.com/jmarca/calvad_couch_cacher"
   },
   "devDependencies": {
-      "should": "~1.2.2"
+    "should": "~1.2.2"
   },
   "scripts": {
     "test": "mocha"
@@ -25,6 +25,18 @@
     "CalVAD",
     "reducer"
   ],
-  "author": "James E. Marca",
-  "license": "MIT"
+  "author": {
+    "name": "James E. Marca"
+  },
+  "license": "MIT",
+  "readme": "# CalVAD reducer\n\nThis package helps collate and reduce imputation results.\n\nIt can collect based on raw imputations, or from the couchdb cache of\nimputations.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jmarca/calvad_reducer/issues"
+  },
+  "_id": "calvad_reducer@0.0.2",
+  "dist": {
+    "shasum": "8a3b5c4853f5bcf65e70bd2da7425a0772fe9562"
+  },
+  "_from": "../calvad_reducer/"
 }
