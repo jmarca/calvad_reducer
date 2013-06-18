@@ -29,7 +29,7 @@ describe('use reducer',function(){
 
 })
 var ts = new Date(2008,6,25,13,0).getTime()/ 1000
-var endts =  new Date(2008,6,25,15,0).getTime()/1000
+var endts =  new Date(2008,6,25,16,0).getTime()/1000
 describe('collate from couchCache get',function(){
     it('can get hourly #1',function(done){
         var accum = new reducer({});
