@@ -1,18 +1,18 @@
 {
   "name": "calvad_reducer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CalVAD utility to reduce multiple imputations, and help extract same from couchdb",
-  "main": "lib/reducer.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "async": "~0.2.7",
-    "lodash": "~1.2.0",
+    "async": "",
+    "lodash": "",
     "calvad_couch_cacher": "git://github.com/jmarca/calvad_couch_cacher"
   },
   "devDependencies": {
-      "should": "~1.2.2"
+      "should": ""
   },
   "scripts": {
     "test": "mocha"
