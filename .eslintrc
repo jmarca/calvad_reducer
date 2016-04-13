@@ -7,10 +7,6 @@
     "es6": true,
     "node": true
   },
-  "plugins": [
-    "babel"
-  ],
-  "parser": "babel-eslint",
 
   "rules": {
     "no-console":[0],
