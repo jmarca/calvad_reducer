@@ -8,10 +8,12 @@
   },
   "dependencies": {
     "async": "",
-    "lodash": "",
-    "calvad_couch_cacher": "git://github.com/jmarca/calvad_couch_cacher"
+    "calvad_couch_cacher": "git://github.com/jmarca/calvad_couch_cacher",
+    "d3-queue": "^2.0.3",
+    "lodash": ""
   },
   "devDependencies": {
+    "config_okay": "0.0.3",
     "eslint": "^2.7.0",
     "mocha": "^2.4.5",
     "should": ""
